@@ -2,16 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahasiddiqui07&label=Profile%20views&color=0e75b6&style=flat" alt="tahasiddiqui07" /> </p>
 
-- 👨🏻‍💻 I’m currently working on *Creating And Developing Websites
+- 👨🏻‍💻 I’m currently working on Creating And Developing Websites.🌌
 
-- 🚀 Additionally, I’m immersing myself in art of System Design
+- 🚀 Additionally, I’m immersing myself in art of System Design.⚙️
 
 - Goals💪
-- Contributing to Open Source technologies
-- Generate AI-Base Services⚙️
+- Contributing to Open Source technologies.🌍
+- Generate AI-Base Services.🤖
 
 - ⚡ Fun fact
-- Gaming is my Therapy🎮
+- Gaming is my Therapy.🎮
 
 <p align="left">
 </p>
