@@ -1,5 +1,4 @@
-![github cover](https://github.com/Syed007Hassan/Syed007Hassan/assets/104893311/dead2d22-a0da-4ab1-8443-c7325b0a057e)
-<img align="right" height="220px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahasiddiqui07&label=Profile%20views&color=0e75b6&style=flat" alt="tahasiddiqui07" /> </p>
 
